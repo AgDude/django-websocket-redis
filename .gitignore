@@ -5,6 +5,7 @@ sqlite.db
 db.sqlite3
 *~
 .tmp*
+.idea*
 build
 docs/_build
 dist
